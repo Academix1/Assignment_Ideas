@@ -1,4 +1,4 @@
-### **Assignment: Build an Enhanced Personal Portfolio**
+### Build an Enhanced Personal Portfolio**
 
 **Objective**: Build an enhanced personal portfolio with an enquiry form that connects to a backend API to handle submissions. The backend should be developed using **Python** and **FastAPI**, and it should store the form submissions in a **MySQL** or **MongoDB** database.
 

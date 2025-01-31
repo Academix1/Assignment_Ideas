@@ -130,5 +130,3 @@ Build a dynamic resume generator application that allows users to input their de
     - IPStack API integration details.
 
 ---
-
-This revised version **simplifies** API integrations while keeping **IPStack API** for auto-tracking geolocation, enhancing user convenience without external complexities. 🚀

@@ -22,7 +22,7 @@ Build a simple **E-Library** web application with a **frontend (React)** and a *
 
 ### **2. Backend (FastAPI)**
 - **Framework:** FastAPI (Python)
-- **Database:** SQLite or PostgreSQL
+- **Database:** SQLite or PostgreSQL or MongoDB
 - **Features:**
   - **CRUD Operations for Books**:
     - **Create**: Add new books with title, author, and content (text or PDF link).

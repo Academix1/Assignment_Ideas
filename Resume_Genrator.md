@@ -1,4 +1,4 @@
-### **Assignment: Build a Resume Generator Application with Form, Database Integration, and Resume Templates**
+### **Assignment: Build a Resume Generator Application**
 
 **Objective**: Build a dynamic resume generator application that allows users to input their details via a form, generate a resume based on their inputs, and store the data in a backend database. The backend should be developed using **Python** and **FastAPI** (or **Flask**), and the data should be stored in a **MySQL** or **MongoDB** database. The generated resume should be displayed in a pre-designed template and available for download as a PDF.
 

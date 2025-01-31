@@ -30,10 +30,6 @@ Build a **real-time collaborative digital whiteboard** using **React (Frontend)*
     - Use WebSockets to update the board instantly for all connected users.  
   - **Store Drawings:**  
     - Save the drawing history in a database.  
-  - **User Session Management:**  
-    - Assign unique session IDs for tracking users.  
-  - **Room-Based Collaboration:**  
-    - Users can create/join different rooms for separate whiteboards.  
   - **Autosave Feature:**  
     - Periodically save the whiteboard state to avoid data loss.  
 
@@ -47,8 +43,6 @@ Build a **real-time collaborative digital whiteboard** using **React (Frontend)*
 
 ### **Bonus (Optional)**  
 - **Text & Shape Support:** Allow users to add text, lines, rectangles, and circles.  
-- **Multi-User Chat:** Enable chat alongside the whiteboard.  
-- **Voice Chat Integration:** Use WebRTC for real-time audio communication.  
 - **AI-Powered Sketch Recognition:** Convert rough sketches into refined shapes.  
 
 ---

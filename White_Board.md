@@ -1,4 +1,4 @@
-### **Digital Whiteboard Assignment** 🎨  
+### **Digital Whiteboard Assignment** 
 
 #### **Objective**  
 Build a **real-time collaborative digital whiteboard** using **React (Frontend)** and **FastAPI (Backend)** that allows multiple users to draw, erase, and interact on a shared canvas.  

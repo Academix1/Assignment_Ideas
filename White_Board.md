@@ -61,4 +61,3 @@ Build a **real-time collaborative digital whiteboard** using **React (Frontend)*
 - **Code Repository:** Upload the project to GitHub.  
 - **README.md:** Include setup instructions and API documentation.  
 
-Would you like a **starter code structure** or **step-by-step guidance**? 🚀

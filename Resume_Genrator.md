@@ -54,14 +54,6 @@ Build a dynamic resume generator application that allows users to input their de
     - **Task**:
         - Use **IPStack API** to auto-detect and pre-fill the user’s location in the **Address** field.
         - Fetch **City, Region, Country**, and insert them into the form.
-        - Example API call:
-          ```python
-          import requests
-          API_KEY = "your_ipstack_api_key"
-          response = requests.get(f"http://api.ipstack.com/check?access_key={API_KEY}")
-          location_data = response.json()
-          print(location_data["city"], location_data["region_name"], location_data["country_name"])
-          ```
         - Implement this feature to **enhance user experience** by reducing manual input.
 
 ---
@@ -91,11 +83,12 @@ Build a dynamic resume generator application that allows users to input their de
     - A **responsive form** for resume creation.
     - Auto-filled **location** using **IPStack API**.
     - **Multiple resume templates** for selection.
+    - **IPStack API integration** for location tracking.
 
 2. **Backend**:
     - A **FastAPI/Flask** backend storing resume data.
     - **PDF generation** with formatting.
-    - **IPStack API integration** for location tracking.
+    - Create RestFull API's to store data Temporarily
 
 ---
 
@@ -117,7 +110,6 @@ Build a dynamic resume generator application that allows users to input their de
 ### **Bonus Points**:
 - Implement **client-side validation** before form submission.
 - Allow users to **edit and update** their resumes.
-- Deploy on **Heroku, AWS, or Vercel**.
 
 ---
 
@@ -128,5 +120,6 @@ Build a dynamic resume generator application that allows users to input their de
     - How to set up the database.
     - How the backend handles PDF generation.
     - IPStack API integration details.
+    - Share Your GitHub URL and ScreenShot of App 
 
 ---

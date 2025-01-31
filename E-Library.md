@@ -1,4 +1,4 @@
-### **E-Library Basic Assignment**  
+### **E-Library**  
 #### **Objective**  
 Build a simple **E-Library** web application with a **frontend (React)** and a **backend (FastAPI)** that allows users to view, search, and read books.
 

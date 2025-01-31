@@ -17,12 +17,8 @@ Build a **real-time collaborative digital whiteboard** using **React (Frontend)*
     - Allows users to revert or redo their last drawing actions.  
   - **Clear Board:**  
     - Option to clear the entire whiteboard.  
-  - **Real-Time Collaboration:**  
-    - Updates are reflected live as multiple users draw together.  
   - **Save & Export:**  
     - Users can save their drawings as an **image (PNG/JPG)** or **PDF**.  
-  - **User Cursor Tracking:**  
-    - Show users’ cursors with different colors/names for collaboration.  
 
 ---
 
